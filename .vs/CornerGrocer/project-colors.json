@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "74c2e3cb-34c8-409e-8f8d-9bcc50e5c81e": {
+      "ProjectGuid": "74c2e3cb-34c8-409e-8f8d-9bcc50e5c81e",
+      "DisplayName": "CornerGrocer",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
